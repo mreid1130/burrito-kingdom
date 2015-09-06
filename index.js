@@ -9,12 +9,12 @@ module.exports.burritoWatch = function(directory) {
 
   watcher
     .on('add', function(path, stats) {
-      log('File', path, 'has been added');
+      console.log('File', path, 'has been added');
     });
 
   watcher
     .on('change', function(path, stats) {
-      log('File', path, 'has been added');
+      console.log('File', path, 'has been added');
     });
 
 
