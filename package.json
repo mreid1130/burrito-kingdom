@@ -6,21 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sharmila and Mark and Leia",
   "license": "ISC",
-  "_id": "burrito-kingdom@1.0.2",
-  "_shasum": "f4d15ae02fe8a72d54d00fd0ff9f6e09284b8b08",
-  "_from": "burrito-kingdom@*",
-  "_npmVersion": "2.12.1",
-  "_nodeVersion": "0.12.7",
-  "_npmUser": {
-    "name": "burrito-queen",
-    "email": "tosharmila@gmail.com"
-  },
-  "dist": {
-    "shasum": "f4d15ae02fe8a72d54d00fd0ff9f6e09284b8b08",
-    "tarball": "http://registry.npmjs.org/burrito-kingdom/-/burrito-kingdom-1.0.1.tgz"
-  },
   "maintainers": [
     {
       "name": "burrito-king",
@@ -32,5 +19,9 @@
     }
   ],
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/burrito-kingdom/-/burrito-kingdom-1.0.1.tgz"
+  "dependencies": {
+    "chokidar": "^1.0.5",
+    "cron": "^1.0.9",
+    "fs": "0.0.2"
+  }
 }
