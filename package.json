@@ -8,20 +8,19 @@
   },
   "author": "Sharmila and Mark and Leia",
   "license": "ISC",
-  "maintainers": [
-    {
-      "name": "burrito-king",
-      "email": "mark.francis.reid@gmail.com"
-    },
-    {
-      "name": "burrito-queen",
-      "email": "tosharmila@gmail.com"
-    }
-  ],
+  "maintainers": [{
+    "name": "burrito-king",
+    "email": "mark.francis.reid@gmail.com"
+  }, {
+    "name": "burrito-queen",
+    "email": "tosharmila@gmail.com"
+  }],
   "directories": {},
   "dependencies": {
+    "async": "^1.4.2",
     "chokidar": "^1.0.5",
     "cron": "^1.0.9",
-    "fs": "0.0.2"
+    "fs": "0.0.2",
+    "path": "^0.12.7"
   }
 }
