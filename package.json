@@ -1,6 +1,6 @@
 {
   "name": "burrito-kingdom",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "burrito burrito burrito burrito",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,16 @@
   },
   "author": "Sharmila and Mark and Leia",
   "license": "ISC",
-  "maintainers": [{
-    "name": "burrito-king",
-    "email": "mark.francis.reid@gmail.com"
-  }, {
-    "name": "burrito-queen",
-    "email": "tosharmila@gmail.com"
-  }],
+  "maintainers": [
+    {
+      "name": "burrito-king",
+      "email": "mark.francis.reid@gmail.com"
+    },
+    {
+      "name": "burrito-queen",
+      "email": "tosharmila@gmail.com"
+    }
+  ],
   "directories": {},
   "dependencies": {
     "async": "^1.4.2",
