@@ -14,9 +14,8 @@ module.exports.burritoWatch = function(directory) {
 
   watcher
     .on('change', function(path, stats) {
-      console.log('File', path, 'has been added');
+      console.log('File', path, 'has been changed');
     });
-
 
 };
 
