@@ -1,6 +1,6 @@
 {
   "name": "burrito-kingdom",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "In Burrito Kingdom, you have little say over the images used in your projects.",
   "main": "index.js",
   "scripts": {
