@@ -50,6 +50,10 @@ var keywords = 'burrito';
 var safeSearch = false;
 
 burritoKingdom.burritoWatch('./public/imgs', 'burrito', false);
-// ./public/imgs will be filled with burritos. If one of those images was changed to something else, it will turn it back into a burrito picture (up to once per file). It will also replace any image added to that folder (while running) with a burrito.
+// ./public/imgs will be filled with burritos. If one
+// of those images was changed to something else, it will
+// turn it back into a burrito picture (up to once per file).
+// It will also replace any image added to that folder
+// (while running) with a burrito.
 
 ```
