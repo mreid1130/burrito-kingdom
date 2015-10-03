@@ -8,20 +8,17 @@
   },
   "respository": {
     "type": "git",
-    "url": "git://github.com/mreid1130/burrito-kingdom.git"
+    "url": "https://github.com/mreid1130/burrito-kingdom.git"
   },
   "author": "Sharmila and Mark and Leia",
   "license": "MIT",
-  "maintainers": [
-    {
-      "name": "burrito-king",
-      "email": "mark.francis.reid@gmail.com"
-    },
-    {
-      "name": "burrito-queen",
-      "email": "tosharmila@gmail.com"
-    }
-  ],
+  "maintainers": [{
+    "name": "burrito-king",
+    "email": "mark.francis.reid@gmail.com"
+  }, {
+    "name": "burrito-queen",
+    "email": "tosharmila@gmail.com"
+  }],
   "directories": {},
   "dependencies": {
     "async": "^1.4.2",
