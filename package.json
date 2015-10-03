@@ -7,18 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "git://github.com/mreid1130/burrito-kingdom",
-  "author": "Sharmila and Mark and Leia",
+  "author": "Sharmila <tosharmila@gmail.com> (sharmila.co) and Mark <mark.francis.reid@gmail.com> (markreid.co) and Leia <dog>",
   "license": "MIT",
-  "maintainers": [
-    {
-      "name": "burrito-king",
-      "email": "mark.francis.reid@gmail.com"
-    },
-    {
-      "name": "burrito-queen",
-      "email": "tosharmila@gmail.com"
-    }
-  ],
+  "maintainers": [{
+    "name": "burrito-king",
+    "email": "mark.francis.reid@gmail.com"
+  }, {
+    "name": "burrito-queen",
+    "email": "tosharmila@gmail.com"
+  }],
   "keywords": [
     "burrito",
     "image",
