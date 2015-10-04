@@ -3,7 +3,6 @@ var chokidar = require('chokidar');
 var request = require('request');
 var async = require('async');
 var path = require('path');
-var cheerio = require('cheerio');
 
 var getFiles = function(dir, done) {
   var results = [];
